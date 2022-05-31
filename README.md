@@ -1,6 +1,1 @@
-### ``Hi There``
-
-``
-Apart from being a newbie at web development & competitive programming, I'm an undergrad pursuing Bachelor's in the field of Computer Science & Engineering.``
-
-``I've a deep interest in designing beautiful websites.``
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=krsambhav&left_text=Profile%20Views)
